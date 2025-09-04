@@ -1,6 +1,6 @@
 
 [1- Introdução.ipynb](https://github.com/user-attachments/files/22129694/1-.Introducao.ipynb)
-({
+{
  "cells": [
   {
    "attachments": {
@@ -61,7 +61,7 @@
   }
  ],
  "metadata": {
-  "language_info": {)
+  "language_info": {
    "name": "python"
   }
  },
